@@ -1,0 +1,23 @@
+/*
+* Jaclyn Roethel
+* April 12th, 2019
+* Semantic Elements
+*/
+
+
+body {background-color: burlywood;
+font-family: arial, helvetica, sans-serif; font-size:87.5%;}
+
+#hershey{float:right; width: 300px; height: 350px; }
+#hersheyfig{float;right;}
+
+h1 {font-size: 200%;
+text-align: center;
+text-transform: uppercase;
+text-decoration: underline overline;}
+a:link{color:saddlebrown; text-decoration: none}
+
+a:hover,a;focus{color:blue; text-decoration: underline}
+header {background-color: beige;}
+
+footer {background-color: lightsalmon;}
